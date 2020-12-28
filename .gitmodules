@@ -1,6 +1,6 @@
-[submodule "server"]
-	path = server
+[submodule "bank-server"]
+	path = bank-server
 	url = https://github.com/parasuramk/bank-server
-[submodule "client"]
-	path = client
+[submodule "bank-client"]
+	path = bank-client
 	url = https://github.com/parasuramk/bank-client
